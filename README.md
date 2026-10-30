@@ -20,115 +20,28 @@
 <br/>
 
 <!-- ═══════════════════════════ PLAYER PROFILE ═══════════════════════════ -->
-<h2 align="center">🎮 PLAYER PROFILE</h2>
+<p align="center">
+  <img width="100%" src="./assets/player-card.svg" alt="Player profile: Vishwa Moger, Game Developer, 3+ years experience, Unity and C#, gameplay and game feel, PC, mobile, web and AR, Bangalore, India" />
+</p>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-### 👾 About Me
-
-I'm a **game developer with 3+ years of experience** turning ideas into worlds people want to play in.
-From the first rough prototype to the last bit of polish, I care about one thing: **how the game feels in the player's hands.**
-
-- 🕹️ Building games for **PC, mobile and web**
-- ⚔️ Specialising in **gameplay programming** and **game feel**
-- 🧪 Prototype fast, test often, polish relentlessly
-- 🤝 Open to **studios, collabs and game jams**
-
-</td>
-<td width="45%" valign="top">
-
-### 📜 Character Sheet
-
-| | |
-|:--|:--|
-| **Class** | Game Developer |
-| **Level** | 3+ Years XP ⭐ |
-| **Main Weapon** | Unity · C# |
-| **Secondary** | TypeScript · Web |
-| **Specialty** | Gameplay & Game Feel |
-| **Platforms** | PC · Mobile · Web · AR |
-| **Home Base** | Bangalore, India |
-| **Current Quest** | Shipping my next game 🚀 |
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>"From the first rough prototype to the last bit of polish, I care about one thing:<br/><b>how the game feels in the player's hands.</b>"</i>
+</p>
 
 <br/>
 
 <!-- ═══════════════════════════ INVENTORY ═══════════════════════════ -->
 <h2 align="center">🧰 INVENTORY</h2>
 
-<p align="center"><b>Engines & Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,html,css&perline=6" alt="Engines and languages" />
-</p>
-
-<p align="center"><b>Tools & Platforms</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,vite,androidstudio,windows,apple&perline=8" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,html,css,visualstudio,vscode,git,github,vite,androidstudio,windows,apple&perline=7" alt="Unity, C#, TypeScript, JavaScript, HTML, CSS, Visual Studio, VS Code, Git, GitHub, Vite, Android Studio, Windows, Apple" />
 </p>
 
 <br/>
 
 <!-- ═══════════════════════════ SKILL TREE ═══════════════════════════ -->
-<h2 align="center">🌳 SKILL TREE</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <h3>🎮</h3>
-  <b>Gameplay Programming</b><br/>
-  <sub>Player controllers, mechanics, AI, game systems and progression</sub>
-</td>
-<td align="center" width="33%">
-  <h3>✨</h3>
-  <b>Game Feel & Polish</b><br/>
-  <sub>Juicy feedback, particles, camera, tweens and sound</sub>
-</td>
-<td align="center" width="33%">
-  <h3>🖥️</h3>
-  <b>UI / UX</b><br/>
-  <sub>Menus, HUDs and clean, readable game interfaces</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <h3>📱</h3>
-  <b>Multi-Platform</b><br/>
-  <sub>Building and optimizing for PC, mobile and browsers</sub>
-</td>
-<td align="center" width="33%">
-  <h3>🕶️</h3>
-  <b>AR / XR</b><br/>
-  <sub>Augmented reality experiences for Android and iOS</sub>
-</td>
-<td align="center" width="33%">
-  <h3>📝</h3>
-  <b>Game Design</b><br/>
-  <sub>Core loops, level design and design documents</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<h2 align="center">📊 PLAYER STATS</h2>
-
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwaMoger&theme=tokyonight&hide_border=true&background=0a0e27&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" alt="GitHub streak" />
+  <img width="100%" src="./assets/skill-tree.svg" alt="Skill tree: Gameplay, Game Feel, UI/UX, Multi-Platform, AR/XR, Game Design" />
 </p>
 
 <br/>
