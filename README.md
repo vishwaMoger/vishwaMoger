@@ -46,6 +46,24 @@
 
 <br/>
 
+<!-- ═══════════════════════════ GAME LIBRARY ═══════════════════════════ -->
+<h2 align="center">🕹️ GAME LIBRARY</h2>
+
+<p align="center">
+  <a href="https://github.com/vishwaMoger/Merge-Resto"><img width="49%" src="./assets/games/merge-resto.svg" alt="Merge Resto: merge and idle tycoon" /></a>
+  <a href="https://github.com/vishwaMoger/Color-Maze"><img width="49%" src="./assets/games/color-maze.svg" alt="Color Maze: relaxing puzzle" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/vishwaMoger/weber_AR"><img width="49%" src="./assets/games/weber-ar.svg" alt="AR Assembly: augmented reality guide" /></a>
+  <a href="https://github.com/vishwaMoger/VishwaMoger_MiniPlatformer"><img width="49%" src="./assets/games/mini-platformer.svg" alt="Mini Platformer: 2D pixel platformer" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/vishwaMoger/Dump_Truck"><img width="49%" src="./assets/games/dump-truck.svg" alt="Dump Truck: 3D driving" /></a>
+  <a href="https://github.com/vishwaMoger/Car_Game"><img width="49%" src="./assets/games/car-game.svg" alt="Car Game: arcade racing, coming soon" /></a>
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
