@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwa-moger-b03a351ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vishwamoger3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-FFB000?style=for-the-badge&logo=unity&logoColor=white" alt="3+ years experience" />
   <img src="https://img.shields.io/badge/Bangalore-India-1a1f4e?style=for-the-badge&logo=googlemaps&logoColor=4FC3F7" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
 </p>
@@ -27,7 +28,7 @@
 
 ### 👾 About Me
 
-I'm a **game developer** who loves turning ideas into worlds people want to play in.
+I'm a **game developer with 3+ years of experience** turning ideas into worlds people want to play in.
 From the first rough prototype to the last bit of polish, I care about one thing: **how the game feels in the player's hands.**
 
 - 🕹️ Building games for **PC, mobile and web**
@@ -43,6 +44,7 @@ From the first rough prototype to the last bit of polish, I care about one thing
 | | |
 |:--|:--|
 | **Class** | Game Developer |
+| **Level** | 3+ Years XP ⭐ |
 | **Main Weapon** | Unity · C# |
 | **Secondary** | TypeScript · Web |
 | **Specialty** | Gameplay & Game Feel |
