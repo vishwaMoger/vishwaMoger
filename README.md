@@ -5,13 +5,15 @@
 
 <p align="center">
   <a href="https://github.com/vishwaMoger">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=false&width=700&height=40&lines=%3E+PRESS+START+TO+CONTINUE_;%3E+LOADING+GAMEPLAY+SYSTEMS...;%3E+COMPILING+FUN...+100%25;%3E+NEW+QUEST%3A+BUILD+AMAZING+GAMES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=false&width=700&height=40&lines=%3E+PRESS+START+TO+CONTINUE_;%3E+5+GAMES+SHIPPED.+PLAY+THEM+FREE!;%3E+LOADING+GAMEPLAY+SYSTEMS...;%3E+COMPILING+FUN...+100%25;%3E+NEW+QUEST%3A+BUILD+AMAZING+GAMES" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwa-moger-b03a351ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vishwamoger3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bluelolipop1.itch.io"><img src="https://img.shields.io/badge/itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="My games on itch.io" /></a>
+  <img src="https://img.shields.io/badge/Games%20Shipped-5-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="5 games shipped" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-FFB000?style=for-the-badge&logo=unity&logoColor=white" alt="3+ years experience" />
   <img src="https://img.shields.io/badge/Bangalore-India-1a1f4e?style=for-the-badge&logo=googlemaps&logoColor=4FC3F7" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
@@ -21,7 +23,7 @@
 
 <!-- ═══════════════════════════ PLAYER PROFILE ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="./assets/player-card.svg" alt="Player profile: Vishwa Moger, Game Developer, 3+ years experience, Unity and C#, gameplay and game feel, PC, mobile, web and AR, Bangalore, India" />
+  <img width="100%" src="./assets/player-card.svg" alt="Player profile: Vishwa Moger, Game Developer, 3+ years experience, 5 live web games, Unity and C#, TypeScript, Three.js and Phaser, released on itch.io and Playgama, Bangalore, India" />
 </p>
 
 <p align="center">
@@ -30,39 +32,62 @@
 
 <br/>
 
+<!-- ═══════════════════════════ SHIPPED GAMES ═══════════════════════════ -->
+<h2 align="center">🔥 PLAY MY GAMES</h2>
+<p align="center"><sub>Free in your browser · no download · desktop &amp; mobile</sub></p>
+
+<p align="center">
+  <a href="https://bluelolipop1.itch.io/crownfall"><img width="49%" src="./assets/shipped/crownfall.svg" alt="Crownfall: action tower defense built with Three.js. Play free on itch.io" /></a>
+  <a href="https://playgama.com/game/meow-squad-zombie-defense"><img width="49%" src="./assets/shipped/meow-squad.svg" alt="Meow Squad: merge and zombie defense built with Phaser. Play free on Playgama" /></a>
+</p>
+<p align="center">
+  <a href="https://playgama.ai/play/52uzl3cmybfyg5"><img width="49%" src="./assets/shipped/smash-rush.svg" alt="Smash Rush: arcade car chase built in Unity. Play free on Playgama" /></a>
+  <a href="https://playgama.ai/play/3ijupm2m3kc7dl"><img width="49%" src="./assets/shipped/corner-office.svg" alt="Corner Office: physics office brawler built in Unity 6. Play free on Playgama" /></a>
+</p>
+<p align="center">
+  <a href="https://bluelolipop1.itch.io/meow-word-quest"><img width="49%" src="./assets/shipped/meow-word-quest.svg" alt="Meow Word Quest: cozy word puzzle. Play free on itch.io" /></a>
+  <a href="https://github.com/vishwaMoger/Merge-Resto"><img width="49%" src="./assets/shipped/grandmas-main-street.svg" alt="Grandma's Main Street: merge and idle tycoon built in Unity 6, version 1.0 launching on web portals" /></a>
+</p>
+
+<p align="center">
+  <sub>📦 Trailers, screenshots &amp; press kits:
+  <a href="https://github.com/vishwaMoger/Crownfall-Game">Crownfall</a> ·
+  <a href="https://github.com/vishwaMoger/meow-squad-zombie-defense-game">Meow Squad</a> ·
+  <a href="https://github.com/vishwaMoger/SmashRush-Game">Smash Rush</a> ·
+  <a href="https://github.com/vishwaMoger/Corner-Office-Game">Corner Office</a> ·
+  <a href="https://github.com/vishwaMoger/Meow-Word-Quest-Game">Meow Word Quest</a> ·
+  <a href="https://github.com/vishwaMoger/Merge-Resto">Grandma's Main Street</a></sub>
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════ INVENTORY ═══════════════════════════ -->
 <h2 align="center">🧰 INVENTORY</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,html,css,visualstudio,vscode,git,github,vite,androidstudio,windows,apple&perline=7" alt="Unity, C#, TypeScript, JavaScript, HTML, CSS, Visual Studio, VS Code, Git, GitHub, Vite, Android Studio, Windows, Apple" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,threejs,html,css,vite,visualstudio,vscode,git,github,androidstudio,windows&perline=7" alt="Unity, C#, TypeScript, JavaScript, Three.js, HTML, CSS, Vite, Visual Studio, VS Code, Git, GitHub, Android Studio, Windows" />
 </p>
 
 <br/>
 
 <!-- ═══════════════════════════ SKILL TREE ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="./assets/skill-tree.svg" alt="Skill tree: Gameplay, Game Feel, UI/UX, Multi-Platform, AR/XR, Game Design" />
+  <img width="100%" src="./assets/skill-tree.svg" alt="Skill tree: Gameplay, Game Feel, Shaders and VFX, Web Publishing, Portal SDKs, Store Assets, UI/UX, AR/XR, Game Design" />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════ GAME LIBRARY ═══════════════════════════ -->
-<h2 align="center">🕹️ GAME LIBRARY</h2>
+<!-- ═══════════════════════════ PROTOTYPES ═══════════════════════════ -->
+<h2 align="center">🧪 PROJECTS &amp; PROTOTYPES</h2>
 
 <p align="center">
-  <a href="https://playgama.com/game/meow-squad-zombie-defense"><img width="49%" src="./assets/games/meow-squad.svg" alt="Meow Squad: Zombie Defense, merge and tower defense, play now on Playgama" /></a>
-  <a href="https://github.com/vishwaMoger/Merge-Resto"><img width="49%" src="./assets/games/merge-resto.svg" alt="Merge Resto: merge and idle tycoon" /></a>
+  <a href="https://github.com/vishwaMoger/Color-Maze"><img width="32%" src="./assets/games/color-maze.svg" alt="Color Maze: relaxing puzzle" /></a>
+  <a href="https://github.com/vishwaMoger/weber_AR"><img width="32%" src="./assets/games/weber-ar.svg" alt="AR Assembly: augmented reality guide" /></a>
+  <a href="https://github.com/vishwaMoger/VishwaMoger_MiniPlatformer"><img width="32%" src="./assets/games/mini-platformer.svg" alt="Mini Platformer: 2D pixel platformer" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/vishwaMoger/Color-Maze"><img width="49%" src="./assets/games/color-maze.svg" alt="Color Maze: relaxing puzzle" /></a>
-  <a href="https://github.com/vishwaMoger/weber_AR"><img width="49%" src="./assets/games/weber-ar.svg" alt="AR Assembly: augmented reality guide" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/vishwaMoger/VishwaMoger_MiniPlatformer"><img width="49%" src="./assets/games/mini-platformer.svg" alt="Mini Platformer: 2D pixel platformer" /></a>
-  <a href="https://github.com/vishwaMoger/Dump_Truck"><img width="49%" src="./assets/games/dump-truck.svg" alt="Dump Truck: 3D driving" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/vishwaMoger/Car_Game"><img width="49%" src="./assets/games/car-game.svg" alt="Car Game: arcade racing, coming soon" /></a>
+  <a href="https://github.com/vishwaMoger/Dump_Truck"><img width="32%" src="./assets/games/dump-truck.svg" alt="Dump Truck: 3D driving" /></a>
+  <a href="https://github.com/vishwaMoger/Car_Game"><img width="32%" src="./assets/games/car-game.svg" alt="Car Game: arcade racing, coming soon" /></a>
 </p>
 
 <br/>
